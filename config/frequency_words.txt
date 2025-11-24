@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -23,41 +20,32 @@ DJI
 稚晖君
 彭志辉
 
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
 !车
 !餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
 张一鸣
 
+kimi
+
+智谱
+glm
+
 特斯拉
 马斯克
+x
+xai
+grok
 
 微软
 Microsoft
+copilot
 
 英伟达
 NVIDIA
 黄仁勋
+blackwell
 
 AMD
 
@@ -69,9 +57,15 @@ deepmind
 chatgpt
 openai
 sora
+CodeX
 
 claude
 Anthropic
+Claude Code
+
+Meta
+Fair
+LlaMA
 
 iphone
 ipad
@@ -81,6 +75,8 @@ ios
 ai
 !gai
 人工智能
+
+具身智能
 
 自动驾驶
 
@@ -92,6 +88,9 @@ ai
 美国
 日本
 韩国
+欧盟
+俄乌
+北约
 
 芯片
 光刻机
@@ -110,4 +109,5 @@ ai
 火星
 宇宙
 飞船
+spaceX
 航空
